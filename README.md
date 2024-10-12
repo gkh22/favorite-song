@@ -1,3 +1,4 @@
+![Alt text](/appex.png)
 # Favorite Song
 A simple React App that fetches from the Spotify API to display your favorite song from an artist along with their image.
 
